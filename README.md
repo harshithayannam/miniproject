@@ -9,10 +9,10 @@ In this project we have Convolutional Neural Networks(CNN) to train a model that
 4. DIVYA VUPPULA(18UK1A05J0)
 
 ## Demo Video Link
-https://drive.google.com/drive/folders/1_2QvQk3TVpDAfBzHIAi2-hMVSDakY-ek?usp=sharing
+https://drive.google.com/file/d/1HYvZqUeMZMt48I1grdlEwlv6ocDAcsHF/view?usp=sharing
 
-## Project Drive Link
-https://drive.google.com/drive/folders/10hJB3hAJvatSe2V1SL279t-BC-rgY4uc?usp=sharing
+## Google drive link
+https://drive.google.com/drive/folders/1mTKyFA3-lSzj-WRze_s4HdFKu0n5b0NI?usp=sharing
 
 ## Libraries Used
 - Tensorflow
