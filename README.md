@@ -3,10 +3,10 @@ In this project we have Convolutional Neural Networks(CNN) to train a model that
 
 
 ## Team Members
-1. JASWANTH S (18BME0209)
-2. MOHANRAJ A (18BME0355)
-3. RANGANATHAN S V (18BME0374)
-4. JAHAN (19BAI1042)
+1. SRI HARSHITHA YANNAM (18UK1A05M7)
+2. SUDEEPA THOUTI REDDY (18UK1A05M4)
+3. SAI DEEPAK POSHALA (18UK1A05L6)
+4. DIVYA VUPPULA(18UK1A05J0)
 
 ## Demo Video Link
 https://drive.google.com/drive/folders/1_2QvQk3TVpDAfBzHIAi2-hMVSDakY-ek?usp=sharing
